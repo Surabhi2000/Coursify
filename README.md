@@ -2,4 +2,4 @@
 ## [Watch Live](https://coursify-homepage.netlify.app/)
 ![Snapshot](ss.png)
 
-Educational site with minimal coding required 
+Educational site homepage frontend part using HTML,CSS
